@@ -1,11 +1,11 @@
 # 00_Student_chat-_Agent
-#Student Agent
+# Student Agent
 
 The Student Agent is a chatbot designed to assist students by providing solutions to common problems. It leverages conversational AI to offer personalized and helpful responses. The agent includes memory capabilities to maintain the context of conversations for better user interaction.
 
-#Features
+# Features
 
-##1. Submit Complaints
+# 1. Submit Complaints
 
 Students can submit complaints about various issues (e.g., library timing, cafeteria services).
 

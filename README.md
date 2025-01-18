@@ -11,25 +11,25 @@ Students can submit complaints about various issues (e.g., library timing, cafet
 
 The agent processes the complaints and confirms submission.
 
-##2. Study Plan Generator
+## 2. Study Plan Generator
 
 Creates a customized study plan based on the subject and available study hours.
 
 Divides the time equally between reviewing theory and solving problems.
 
-##3. Outfit Suggestions
+## 3. Outfit Suggestions
 
 Suggests appropriate outfits based on the type of event (e.g., party, interview).
 
 Includes a fallback suggestion for unspecified events to ensure helpful responses.
 
-##4. Conversation Memory
+## 4. Conversation Memory
 
 Maintains context across the conversation to improve follow-up responses.
 
 Uses LangGraph's memory features to persist state between steps.
 
-##Technology Stack
+## Technology Stack
 
 LangChain Google GenAI: Provides conversational AI capabilities.
 
@@ -37,7 +37,7 @@ LangGraph: Manages the flow of conversation and memory.
 
 Python: Core programming language for implementation.
 
-##Usage
+## Usage
 
 Running the Chatbot
 
@@ -47,7 +47,7 @@ Set up your API key for Google Generative AI (GEMINI_API_KEY).
 
 Configure and run the chatbot using the provided Python script.
 
-##Example Interaction
+## Example Interaction
 
 User Input:
 
@@ -119,7 +119,7 @@ Contact
 
 For questions or support, please contact:
 
-Email: support@studentagent.com
+Email: maarikram786@gmail.com
 
 GitHub: Student Agent Repository
 

@@ -119,8 +119,8 @@ Contact
 
 For questions or support, please contact:
 
-Email: maarikram786@gmail.com
+### Email: maarikram786@gmail.com
 
-GitHub: Student Agent Repository
+### GitHub: Student Agent Repository
 
 
